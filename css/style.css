@@ -1,0 +1,29 @@
+body {
+    background: url("https://d3stdg5so273ei.cloudfront.net/hpandhe/2019-05-22/138909/HighresScreenshot00000_editlow-hpandhe.jpg") no-repeat;
+    background-size: cover;
+    
+}
+header {
+    display: flex;
+    margin-left: 5em;
+    margin-top: 7em;
+}
+h1, h2, p {
+    color: white;
+    font-size: 60px;
+    text-shadow: 7px 7px #6B8E23;
+}
+h2 {
+    padding-left: 0.5em;
+}
+section {
+    text-align: center;
+    margin-top: 5em;
+}
+button {
+    background: #6B8E23;
+    border: 15px solid #D2B48C;
+    font-size: 50px;
+    color: white;
+    margin-top: 1.5em;
+}
